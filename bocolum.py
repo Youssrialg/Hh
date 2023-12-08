@@ -1,4 +1,7 @@
 # DECRYPTED BY Khalid Shaifullah
+
+print ("test")
+
 # Github : https://github.com/Khalid2009sm
  #!/usr/bin/python
 # -*- coding: utf-8
